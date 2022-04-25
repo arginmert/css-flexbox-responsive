@@ -51,7 +51,7 @@ header h2 a {
     display: block;
     height: 100%;
     text-indent: -999;
-    background: url('../img/Logo.svg') no-repeat center center;
+    background: url('../img/Logo.svg1') no-repeat center center;
 }
 header .main-menu nav ul {
     display: flex;
